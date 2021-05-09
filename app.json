@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "lab4",
+    "slug": "lab4",
+    "version": "1.0.0",
+    "orientation": "default",
+    "icon": "./assets/apple-app-store.png",
+    "splash": {
+      "image": "./assets/apple-app-store.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/apple-app-store.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/apple-app-store.png"
+    }
+  }
+}
